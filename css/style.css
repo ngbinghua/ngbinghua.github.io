@@ -4,14 +4,14 @@
 }
 
 .background {
-	background-image: url("file:///Users/ngbinghua/code/exercise/blog/images/plane.jpg");
+	background-image: url("../images/plane.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .background1 {
-	background-image: url("file:///Users/ngbinghua/code/exercise/blog/images/plane.jpg");
+	background-image: url("../images/plane.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top;
@@ -92,7 +92,7 @@ h2 {
 }
 
 .filler {
-	background-image: url("file:///Users/ngbinghua/code/exercise/blog/images/plane.jpg");
+	background-image: url("../images/plane.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: bottom;
