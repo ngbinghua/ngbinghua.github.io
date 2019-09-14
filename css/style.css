@@ -1,0 +1,213 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.background {
+	background-image: url("file:///Users/ngbinghua/code/exercise/blog/images/plane.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.background1 {
+	background-image: url("file:///Users/ngbinghua/code/exercise/blog/images/plane.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+}
+
+.container {
+   	overflow: hidden;
+   	width: 100%;
+   	height: 1050px;
+}
+
+.container1 {
+	overflow: hidden;
+   	width: 100%;
+   	height: 300px;	
+}
+
+.nav-bar {
+	padding-right: 70px;
+	padding-left: 70px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+.logo {
+	float: left;
+}
+
+h1 {
+	color: white;
+	padding-top: 50px;
+}
+
+.icon-scroll {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 40px;
+}
+
+.scroll {
+	text-align: center;
+  	top: 0px;
+  	color: white;
+	font-family: sans-serif;
+}
+
+.about-us {
+	background: #fafafa;
+}
+
+.header-main {
+	margin: 790px;
+}
+
+.header {
+	text-align: center;
+	font-weight: bold;
+	font-family: sans-serif;
+	font-size: 26px;
+	color: #488ee8;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h2 {
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.about-us-content {
+	padding-bottom: 50px;
+	padding-right: 400px;
+	padding-left: 400px;
+}
+
+.filler {
+	background-image: url("file:///Users/ngbinghua/code/exercise/blog/images/plane.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+
+h3{
+	text-align: center;
+	font-size: 28px;
+	color: white;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 28px;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.detail-box {
+	width: 500px;
+	margin: auto;
+}
+
+.contact-us {
+	background: #fafafa;
+}
+
+.form {
+	background: #fafafa;
+	padding-bottom: 50px;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+
+.form-details {
+	padding-bottom: 40px;
+}
+
+input[type=text], [type=email], [type=phone] {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+textarea {
+	resize: none;
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+	box-sizing: border-box;
+	padding-bottom: 75px;
+	border-color: #bfbfbf;
+}
+
+input[type=submit] {
+	width: 100%;
+	background-color: #488ee8;
+	color: white;
+	padding: 12px;
+	border-radius: 4px;
+	font-size: 15px;
+}
+
+.footer {
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.entry {
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border: 5px solid lightgrey;
+	border-radius: 25px;
+}
+
+.entry-time {
+	font-weight: bold;
+	color: #488ee8;
+}
+
+.entry-body {
+	border-left: 6px solid #488ee8;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-top: 10px;
+	margin-bottom: 25px;
+}
+
+.close-entry {
+	text-align: center;
+	padding: 15px;
+}
